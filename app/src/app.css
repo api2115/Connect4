@@ -1,0 +1,28 @@
+.c4{
+    transform: rotate(-90deg);
+    font-size: 70px;
+}
+
+.gamespace{
+    display: flex;
+    justify-content: center;
+}
+
+nav{
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+}
+
+.mainchat{
+    margin:4px, 4px;
+    padding:4px;
+    width: 500px;
+    height: 110px;
+    overflow-x: hidden;
+    overflow-y: auto;
+    text-align:justify;
+}
+
+
+
